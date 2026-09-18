@@ -18,7 +18,7 @@ A five-page marketing and order-enquiry website for Fairyland Cake Co., a boutiq
 -Provide clear, transparent pricing and ordering timelines up front.
 -Deliver a clean, image-led design that works smoothly across desktop, tablet and mobile.
 
-##Key Features and Functionality
+## Key Features and Functionality
 **Sticky, responsive navigation** with a pure-CSS (checkbox-based)
   mobile hamburger menu — no JavaScript required.
 - **Homepage hero slideshow** — four cake photos auto-fade on a loop,
