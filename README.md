@@ -86,6 +86,8 @@ Built the full order enquiry form on the Contact page (occasion, flavour, servin
 Implemented responsive design with breakpoints at 1024px (tablet), 768px (mobile — nav collapses to toggle menu) and 480px (small mobile).
 GitHub link 
 https://github.com/Tumi87/Fairyland-Cake-Co.
+<img width="588" height="561" alt="1122233" src="https://github.com/user-attachments/assets/6d9a3990-68c9-4bdb-a0f2-3cd074dc8ca7" />
+
 
  ## Part 1 — [ 14 August 2026]
 -Target organisation selected: Fairyland Cake Co. (small business — home bakery).
@@ -98,6 +100,8 @@ https://github.com/Tumi87/Fairyland-Cake-Co.
 - Add screenshot evidence of desktop/tablet/mobile testing to this README.
 - Double-check the WhatsApp link phone number is formatted correctly (no spaces) for the wa.me link to work.
 - Confirm footer phone numbers are consistent across all five pages.
+
+- 
 ## Page Content Breakdown
 
 ### Homepage (index.html)
