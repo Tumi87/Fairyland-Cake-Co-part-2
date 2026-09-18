@@ -84,7 +84,8 @@ Implemented the homepage image slideshow with CSS keyframe animation, hover-to-p
 Added hover/focus caption reveal on gallery images.
 Built the full order enquiry form on the Contact page (occasion, flavour, servings, dietary requirements, theme, event date).
 Implemented responsive design with breakpoints at 1024px (tablet), 768px (mobile — nav collapses to toggle menu) and 480px (small mobile).
-GitHub link (https://github.com/Tumi87/Fairyland-Cake-Co.) 
+GitHub link 
+https://github.com/Tumi87/Fairyland-Cake-Co.
 
  ## Part 1 — [ 14 August 2026]
 -Target organisation selected: Fairyland Cake Co. (small business — home bakery).
@@ -129,6 +130,7 @@ W3Schools. n.d. How to make a website for business. Available at: https://www.w3
 W3Schools. n.d. W3Schools online web tutorials. Available at: https://www.w3schools.com [Accessed 3 August 2026].
 Google Fonts. n.d. Playfair Display & Open Sans. Available at: https://fonts.google.com/ [Accessed: 16 September 2026].
 githublink https://github.com/Tumi87/Fairyland-Cake-Co-part-2
+ https://github.com/Tumi87/Fairyland-Cake-Co-part-2
 
 
 
